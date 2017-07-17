@@ -1,4 +1,4 @@
 # hello-word
 iniciacion en github
-Voy por mi primer commiy dentro de un branch.
+Voy por mi primer commit dentro de un branch.
 Listo.
